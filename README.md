@@ -61,7 +61,4 @@ The simulation demonstrates correct register loading in normal mode and serial s
 - Add more test cases for different scan input patterns.
 - Explore scan-based fault testing and automatic test-pattern generation (ATPG).
 
-## 👨‍💻 Author
-Electronics and Communication Engineering Student
-
-**Note:** This is an educational scan-chain design and simulation project. It does not implement a complete industrial scan-insertion or ATPG flow.
+ 
