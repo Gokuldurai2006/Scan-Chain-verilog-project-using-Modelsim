@@ -1,5 +1,4 @@
-# Scan-Chain-verilog-project-using-Modelsim
-# Design and Verification of a 4-Bit Scan Chain Using Verilog HDL
+#Design and Verification of Scan-Chain-verilog-project-using-Modelsim and Verilog HDL
 
 ## 📌 Project Overview
 This project implements a 4-bit scan chain using Verilog HDL and verifies its functionality through simulation in ModelSim.
